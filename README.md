@@ -1,2 +1,1 @@
-# awesome-list
-My awesome list for development resources and libraries
+﻿# awesome-listMy awesome list for development resources and libraries# Node Libraries[Access Control Library](https://www.npmjs.com/package/accesscontrol)
