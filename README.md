@@ -19,11 +19,16 @@ My awesome list for development resources and libraries
 
 ## Node Libraries
 
-[Access Control Library](https://www.npmjs.com/package/accesscontrol)
+alias-hq  
 
 ### Node Development Tools
 
 [Npkill](https://www.npmjs.com/package/npkill)
+
+## React Libraries
+
+[react-hook-form](https://react-hook-form.com/)
+[react-use](https://github.com/streamich/react-use) - Great library for hooks  
 
 ## Productivity Apps
 
@@ -32,29 +37,28 @@ Lucid Chart
 
 ## Developer Tools
 
-Dbeaver
-
-Postman app
-Docker Desktop
+[Dbeaver](https://dbeaver.io/) - Universal DB Client  
+[Postman app](https://www.postman.com/) - API Querying Tool  
 Gitkraken
 Devhub
 
 ## Mac Tools
 
 Arc browser
-Warp terminal
 Unite
 
 ## Networking Related Tools
 
-ngrok
-tailscale
-zero tier
+Ngrok
+Tailscale
+Zero tier
+Proton VPN
 
 ## Docker tools
 
 [Podman desktop](https://podman-desktop.io/)
 Portainer
+Docker Desktop
 
 ## CheatSheets
 
@@ -63,6 +67,9 @@ Portainer
 
 ## NPM Packages
 
+[Octonode](https://www.npmjs.com/package/octonode) Github API wrapper  
+[Access Control Library](https://www.npmjs.com/package/accesscontrol)
+
 ## Golang Packages
 
 ## VS Code Extensions
@@ -70,3 +77,16 @@ Portainer
 ## Awesome lists
 
 [Docker](https://awesome-docker.netlify.app/)  
+
+## Terminal Emulators
+
+[Hyper](https://hyper.is/) - Javascript configurable terminal(Cross platform)  
+[Warp](https://www.warp.dev/) - Mac Only terminal.  Useful with cool features  
+
+## Terminal Commands
+
+[Bat](https://github.com/sharkdp/bat) - An improved cat clone
+
+## Terminal Tools
+
+[Termius](https://termius.com/)  
