@@ -59,7 +59,6 @@ auto
 [recoil](https://recoiljs.org/) - A state management library for react  
 [tremor](https://www.tremor.so/blocks) - The react library to build dashboards fast.  
 
-
 ## Productivity Apps
 
 [Diagrams](https://www.diagrams.net/)  
@@ -89,6 +88,7 @@ auto
 [Discord](https://discord.com/) - Great chat platform for engineers  
 [Shells](https://www.shells.com/l/en-US/) - Cloud desktop as a service  
 [Lando](https://docs.lando.dev/) - Framework to help coordinate building dev environments  
+[Ory](https://www.ory.sh/) - Ory is a set of frameworks for authentication and authorization  
 
 ## Mac Tools
 
@@ -98,6 +98,9 @@ auto
 [DevToys](https://github.com/ObuchiYuki/DevToysMac) - DevToys for Mac  
 [Cyberduck](https://cyberduck.io/) - Cloud storage browser  
 [Transmit](https://panic.com/transmit/) - Macos file transfer app  
+[Little snitch](https://www.obdev.at/products/littlesnitch/index.html) - Little snitch network monitor  
+[Flux](https://justgetflux.com/) - Screen brightness adjustment tool.  
+Wappalyzer  
 
 ## Networking Related Tools
 
@@ -108,6 +111,8 @@ auto
 [No Machine](https://www.nomachine.com/) - Free remote desktop for everybody  
 [Expressions](https://www.apptorium.com/expressions) - App that can be used for testing regular expressions  
 [Safing](https://safing.io/) - Pretty cool firewall  
+[Bastillion](https://www.bastillion.io/) - This is a nice bastion server tool
+[Teleport](https://goteleport.com/)  - Infrastructure access management platform.  
 
 ## Docker tools
 
@@ -121,8 +126,8 @@ auto
 
 [Bash Cheatsheet](https://devhints.io/bash)  
 [Tailwind Cheatsheet](https://tailwindcomponents.com/cheatsheet/)  
-[Regex](https://gist.github.com/sarthology/b269c4ab81832c03f80eb48920f1abce)
-[Go](https://devhints.io/go)
+[Regex](https://gist.github.com/sarthology/b269c4ab81832c03f80eb48920f1abce)  
+[Go](https://devhints.io/go)  
 [Go by example](https://gobyexample.com/) - Go by example  
 
 ## NPM Packages
@@ -207,6 +212,7 @@ micnil.vscode-checkpoints - Checkpoints for tasks
 [Artillery](https://www.artillery.io/) - Advanced load testing platform  
 [Autocannon](https://www.npmjs.com/package/autocannon) - JS based load testing platform  
 [Mockoon](https://mockoon.com/) - Mockoon is the easiest and quickest way to design and run mock REST APIs.  
+[Testmo](https://www.testmo.com/) - Testing suite for test case management  
 
 ## Documentation
 
@@ -228,3 +234,9 @@ micnil.vscode-checkpoints - Checkpoints for tasks
 [eslint](https://eslint.org/) - Linting utility for Javascript  
 [commitizen](https://github.com/commitizen/cz-cli) - Simple commit conventions for internet citizens.  
 [commitlint](https://commitlint.js.org/#/) - Lint commit messages  
+[rome](https://rome.tools/) - Rome unifies your development stack by combining the functionality of separate tools.  
+
+## API Management
+
+[Kong](https://konghq.com/products/kong-gateway) - Kong API Gateway  
+[Krakend](https://www.krakend.io/) - Krakend API Gateway  
