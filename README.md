@@ -88,7 +88,8 @@ auto
 [Discord](https://discord.com/) - Great chat platform for engineers  
 [Shells](https://www.shells.com/l/en-US/) - Cloud desktop as a service  
 [Lando](https://docs.lando.dev/) - Framework to help coordinate building dev environments  
-[Ory](https://www.ory.sh/) - Ory is a set of frameworks for authentication and authorization  
+[Ory](https://www.ory.sh/) - Ory is a set of frameworks for authentication and authorization
+[Act](https://github.com/nektos/act) - Testing functionality in Github actions locally
 
 ## Mac Tools
 
